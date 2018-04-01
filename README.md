@@ -1,4 +1,7 @@
 # Yoga500-Hackintosh
+
+hackintosh = clover + fakesmc + 'origin copy of OS partition' 
+
 This project I will not upload any file or folder. <br />
 The reason each laptop has a different ACPI. <br />
 But first of all, I want to help you to understand what is hackintosh. <br />
