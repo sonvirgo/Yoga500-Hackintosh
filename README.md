@@ -1,6 +1,7 @@
 # Yoga500-Hackintosh
 
 hackintosh = clover + fakesmc + 'origin copy of OS partition' 
+Latest macOS version run on this PC is Sonoma
 
 ![image](https://github.com/sonvirgo/Yoga500-Hackintosh/assets/10823037/3e7163bc-594b-4bb8-b64d-5da3f85ec07e)
 
